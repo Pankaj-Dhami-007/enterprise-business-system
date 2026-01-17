@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Spring profiles
+application-local.yml
+application-dev.yml
+application-prod.yml
+
